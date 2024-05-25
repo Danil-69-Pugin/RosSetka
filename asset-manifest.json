@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RosSetka/static/css/main.61c4421e.css",
+    "main.js": "/RosSetka/static/js/main.438109a1.js",
+    "static/media/3dsetka.jpg": "/RosSetka/static/media/3dsetka.69855e359ea7d9aeeb85.jpg",
+    "static/media/timezabor.jpg": "/RosSetka/static/media/timezabor.dff2f83ba63b5b90592b.jpg",
+    "static/media/vorota.jpg": "/RosSetka/static/media/vorota.6dbbb02af2034e4218b6.jpg",
+    "static/media/SETKA.jpg": "/RosSetka/static/media/SETKA.1e1add5349c1625dab86.jpg",
+    "static/media/uogoza.jpg": "/RosSetka/static/media/uogoza.0b7ca138dc25d052e922.jpg",
+    "static/media/nonpodkop.jpg": "/RosSetka/static/media/nonpodkop.8b82d3829a36a031e5e1.jpg",
+    "static/media/gabions.jpg": "/RosSetka/static/media/gabions.3804a4caf8e1ed81e44b.jpg",
+    "static/media/setkarabitza.jpg": "/RosSetka/static/media/setkarabitza.a5c557ea0408463a5531.jpg",
+    "static/media/svarniizabors.jpg": "/RosSetka/static/media/svarniizabors.24b96af4b9425d774517.jpg",
+    "static/media/volers.jpg": "/RosSetka/static/media/volers.2c3205cbbceaaadd3596.jpg",
+    "index.html": "/RosSetka/index.html",
+    "main.61c4421e.css.map": "/RosSetka/static/css/main.61c4421e.css.map",
+    "main.438109a1.js.map": "/RosSetka/static/js/main.438109a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61c4421e.css",
+    "static/js/main.438109a1.js"
+  ]
+}
